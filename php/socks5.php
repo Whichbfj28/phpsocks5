@@ -5,8 +5,8 @@ $dbuser = 'phpsocks5';
 $dbpass = '123123';
 $dbname = 'phpsocks5';
 
-$secretkey = "gnuwisy78346g86s786d87f6782hjdkhkjchzxkjhkdjhdfhi2uq3yrsyidyfuishyidhyichyizxihyiuhyfiu89347979834ghe987t898d7uf897s89j";
-$debuginfo = True;	//	True or False
+$secretkey = "gnuwisy78346g86s786d87f6782hjdkhkjchzxkjhkdjhd123efqpouvjamgmgyfiu89347979834ghe987t898d7uf897s89j";
+$debuginfo = False;	//	True or False
 $prefix = "gwe7hy847t897sd8fy4895";
 $postfix = "h89ru89duy89fy2y9889we";
 
